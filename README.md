@@ -1,6 +1,6 @@
 # Intelligent Systems · Selected Algorithms
 
-A curated set of small, standalone Python examples adapted from university coursework in rule-based agents, neural learning, local search and evolutionary optimization.
+Four small, standalone Python examples from university work on rule-based agents, neural learning, local search and evolutionary optimization.
 
 ## Examples
 
@@ -24,8 +24,8 @@ python examples/wall_follow_agent.py
 
 Each file has a deterministic demonstration and lightweight assertions, so it can be reviewed without instructor packages, notebooks or private course datasets.
 
-## Provenance and scope
+## Background
 
-This repository previously mirrored a raw seven-assignment workspace. The curated version deliberately removes assignment sheets, templates, instructor support code, test/train datasets, duplicate notebooks and incomplete submissions.
+The original workspace covered seven assignments. For GitHub, it was reduced to the four complete examples above; assignment sheets, starter templates, instructor support code, course datasets and unfinished exercises are not included.
 
 The source coursework included both individual work and explicitly marked group exercises by **Aziz Zarrouki, Jihed Khattat and Rayan Brigui**. The examples here preserve that team context and do not use repository history to make unsupported individual-authorship claims. University coursework publication is permitted; no course grade is claimed.
